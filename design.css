@@ -1,0 +1,22 @@
+#knapp, #bursdag{
+    width: 100%;
+    text-align: center;
+    margin-top: 20em;
+}
+#knapp input {
+    font-size: 1em;
+    margin-top: 20em;
+}
+#bursdag {
+    background-color: rgb(121, 27, 105)
+}
+img {
+    border-style: solid;
+    border-color: white;
+    border-width: thick;
+}
+p {
+    color: white;
+    font-size: 4em;
+    padding: 0;
+}
